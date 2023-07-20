@@ -1,0 +1,45 @@
+{
+  "name": "may29test_build",
+  "version": "1.0.1",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@config-plugins/react-native-ble-plx": "^5.0.0",
+    "@react-native-picker/picker": "^2.4.10",
+    "@react-navigation/drawer": "^6.6.2",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "expo": "~47.0.12",
+    "expo-dev-client": "~2.0.1",
+    "expo-mail-composer": "~12.0.0",
+    "expo-screen-orientation": "~5.0.1",
+    "expo-status-bar": "~1.4.2",
+    "firebase": "^10.0.0",
+    "react": "18.1.0",
+    "react-native": "0.70.8",
+    "react-native-base64": "^0.2.1",
+    "react-native-ble-manager": "^10.0.2",
+    "react-native-ble-plx": "^2.0.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-collapsible": "^1.6.1",
+    "react-native-date-picker": "^4.2.6",
+    "react-native-email": "^2.1.0",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-mail": "^6.1.1",
+    "react-native-reanimated": "^3.1.0",
+    "react-native-safe-area-context": "^4.5.2",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-svg": "^13.8.0",
+    "react-native-table-component": "^1.2.2",
+    "react-native-watch-connectivity": "^1.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
